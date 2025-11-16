@@ -73,7 +73,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src=https://avatars.githubusercontent.com/u/111946809?s=400&u=079d7c0520573478a361f1e20a40f20c7029a40f&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJoubert Pinheiro<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/JoubertSI">
